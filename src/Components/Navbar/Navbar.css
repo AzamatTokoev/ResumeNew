@@ -1,0 +1,17 @@
+.navbar {
+  height: 10vh;
+  background-color: gray;
+  font-size: 20px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+a {
+  color: white;
+}
+
+.active {
+  color: violet;
+}
